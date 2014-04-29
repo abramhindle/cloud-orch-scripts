@@ -1,2 +1,2 @@
 cd ~/grains/
-setsid bash startosc.sh &
+bash startosc.sh

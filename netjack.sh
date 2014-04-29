@@ -4,3 +4,4 @@ do
 echo $file
 jack_netsource -H $file -i 1 -o 0 &
 done
+read
