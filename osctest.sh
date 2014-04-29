@@ -1,2 +1,3 @@
-bash slave.sh perl csound-timestretching-granular-synth-experiment/osctest.pl 
+cd ~/cloud-orch-scripts
+bash slave.sh perl ~/grains/osctest.pl 
 

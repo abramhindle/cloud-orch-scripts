@@ -1,5 +1,5 @@
 #!/bin/bash
-setsid bash ~/jackd-slave.sh &
+setsid bash ~/cloud-orch-scripts/jackd-slave.sh &
 sleep 4
 cd ~/grains
 bash slavenoui.sh
