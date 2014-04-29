@@ -1,2 +1,2 @@
-cd ~/csound-timestretching-granular-synth-experiment
+cd ~/grains
 bash slavenoui.sh
